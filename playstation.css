@@ -1,0 +1,253 @@
+.sony {
+    background-color: black;
+    color: white;
+    font-size: xx-large;
+    font-weight: bold;
+    height: 44px;
+    width: 100%;
+    display: flex;
+    justify-content: end;
+}
+
+.navbar {
+    height: 50px;
+}
+
+.navbar .row .mainDropdown {
+    display: flex;
+
+}
+
+.navbar .row .mainDropdown .dropdown .btn {
+    background-color: inherit;
+    color: gray;
+    border: none;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: small;
+    margin-left: -10px;
+
+}
+
+.navbar_left .signin {
+    border-radius: 40px;
+    height: 20px;
+    margin-right: 10px;
+
+}
+
+.navbar_left p {
+    margin-top: -10px;
+}
+
+.navbar_left svg {
+    margin-right: 30px;
+}
+
+.navbar_left {
+    display: flex;
+    justify-content: end;
+}
+
+.navbar_right svg {
+    margin-left: 25px;
+    margin-top: 5px;
+    color: blue;
+
+}
+
+.navbar2 {
+    position: sticky !important;
+    top: 1px;
+    background-color: white !important;
+}
+
+.navbar2 .btn {
+    border: none;
+    background-color: inherit;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+.navbar2 .btn span {
+    font-weight: lighter;
+}
+
+.navbar2_left {
+    display: flex;
+}
+
+.navbar2_left img {
+    height: 30px;
+    width: 30px;
+    margin-left: 30px;
+    margin-top: 5px;
+}
+
+
+
+.center_main_img {
+    background-color: whitesmoke;
+    height: 390px;
+    display: flex;
+    align-items: flex-end;
+
+}
+
+.center2_main_img {
+    background: url("https://image.api.playstation.com/pr/bam-art/147/959/06c1a778-7d26-4bed-85eb-b350995cb1e2.jpg?w=1920&thumb=false");
+
+    height: 350px;
+    width: 100%;
+}
+
+.center_img2 {
+    height: 390px;
+    width: 420px;
+    position: absolute;
+    right: 220px;
+    bottom: 33px;
+}
+
+.center_img1 {
+    height: 250px;
+    width: 300px;
+    position: absolute;
+    left: 330px;
+    top: 220px;
+}
+
+.row .god {
+    font-size: xx-large;
+    margin-left: 50px;
+
+
+}
+
+.row .out {
+    border-radius: 25px;
+    margin-top: 10px;
+    margin-left: 100px;
+}
+
+.santa {
+    margin-left: 50px;
+    font-size: small;
+}
+
+.images_container {
+    background-color: whitesmoke;
+    height: 800px;
+    width: 100%;
+}
+
+.images_container img {
+    height: 420px;
+    width: 370px;
+    border-radius: 10px;
+    margin-top: 40px;
+    margin-left: 30px;
+}
+
+.images_container .middle {
+    margin: 0 -30px;
+}
+
+.images_container .first {
+    margin-left: 35px;
+}
+
+.game_text {
+    margin-left: 65px;
+    margin-top: 30px;
+
+}
+
+.game_text img {
+    height: 360px;
+    width: 270px;
+}
+
+.game_text .first1 {
+    margin-left: -30px !important;
+}
+
+.coming_soon {
+    margin-left: 70px;
+    margin-top: 30px;
+}
+
+.coming_soon img {
+    height: 360px;
+    width: 270px;
+    margin-right: 15px;
+}
+
+.coming_soon .first {
+    margin-left: -32px;
+}
+
+.playstationplus {
+
+    background: url("https://image.api.playstation.com/pr/bam-art/119/790/8b8e7b47-4473-4fc0-bf8f-1ef383893874.jpg?w=1920&thumb=false");
+    height: 350px;
+    width: 100%;
+    background-size: 70px 80px;
+    background-size: cover;
+    margin-top: 100px;
+}
+
+.playstationplus img {
+    margin-top: -30px;
+}
+
+.playstationplus .first img {
+    height: 230px;
+    margin-top: 60px;
+}
+
+.welcome {
+    margin-top: 25px;
+}
+
+.welcome p {
+    font-size: xx-large;
+}
+
+.welcome .btn {
+    border-radius: 20px;
+}
+
+.welcome span {
+    font-size: small;
+    margin-left: 100px;
+}
+
+.playstation_stars img {
+    width: 100%;
+    margin: 0;
+    border-radius: 0;
+}
+
+.playstation_stars .row {
+    margin-top: 30px;
+}
+
+.playstation_stars .row p {
+    font-size: larger;
+}
+
+.playstation_stars .row .btn {
+    border-radius: 25px;
+}
+
+.playstation_stars .row span {
+    font-size: small;
+    margin-left: 100px;
+}
+
+body {
+    padding: 0;
+
+    margin: 0;
+}
